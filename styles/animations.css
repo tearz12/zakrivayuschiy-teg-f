@@ -33,11 +33,6 @@
   transition: fill var(--time_step) ease 0.03s;
 }
 
-.button_heart .main-body {
-  fill: transparent;
-  transition: fill var(--time_step) ease 0s;
-}
-
 .card__icon-button:hover .core {
   fill: var(--heart-contour-color);
   transition: fill var(--time_step) ease;

@@ -1,1 +1,1 @@
-https://github.com/tearz12/zakrivayuschiy-teg-f
+https://tearz12.github.io/zakrivayuschiy-teg-f/
